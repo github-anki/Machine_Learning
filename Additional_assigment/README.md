@@ -86,20 +86,5 @@ In `experiments` folder are prepared two scripts to conduct experiments applied 
 ```
 Above example applies to experiment comparing weight initiliazer methods. Results (plots) are saved in declared earlier `SAVE_PATH` directory in newly created folder `initializer`.
 
-## Reports
-There are two reports (language Polish) included in this project. They contain analysis of experiment results and brief summary of conclusions.
-
-`neural_nets_mlp.pdf` content:
-1. Batch size influence on learning process
-2. Impact of init weights range on training
-3. Effect of the number of neurons in the hidden layer 
-4. Comparison of sigmoid vs ReLU function
-5. Comparison of different optimizers
-6. Comparison of different weigh init methods
-7. Effect of softmax vs MSE loss function
-
-`neural_nets_conv_polish.pdf` content:
-1. Effect of filter size on the classification results
-2. Comparing CONV net with MLP net 
 
 
