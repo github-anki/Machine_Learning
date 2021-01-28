@@ -1,0 +1,2 @@
+accuracy = 0.987300
+epoch = 24

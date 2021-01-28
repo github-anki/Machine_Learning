@@ -1,0 +1,7 @@
+params count: 79510 
+optimizer: adam
+metric: ['label_accuracy']
+layer0 Input: no variables
+layer1 Dense: W (784, 100), bias (1, 100), 
+layer2 ReLU: no variables
+layer3 Dense: W (100, 10), bias (1, 10), 
